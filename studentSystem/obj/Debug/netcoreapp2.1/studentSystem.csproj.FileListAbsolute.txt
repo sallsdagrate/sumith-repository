@@ -1,0 +1,11 @@
+C:\Users\sumit\source\repos\studentSystem\bin\Debug\netcoreapp2.1\studentSystem.deps.json
+C:\Users\sumit\source\repos\studentSystem\bin\Debug\netcoreapp2.1\studentSystem.runtimeconfig.json
+C:\Users\sumit\source\repos\studentSystem\bin\Debug\netcoreapp2.1\studentSystem.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\studentSystem\bin\Debug\netcoreapp2.1\studentSystem.dll
+C:\Users\sumit\source\repos\studentSystem\bin\Debug\netcoreapp2.1\studentSystem.pdb
+C:\Users\sumit\source\repos\studentSystem\obj\Debug\netcoreapp2.1\studentSystem.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\studentSystem\obj\Debug\netcoreapp2.1\studentSystem.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\studentSystem\obj\Debug\netcoreapp2.1\studentSystem.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\studentSystem\obj\Debug\netcoreapp2.1\studentSystem.AssemblyInfo.cs
+C:\Users\sumit\source\repos\studentSystem\obj\Debug\netcoreapp2.1\studentSystem.dll
+C:\Users\sumit\source\repos\studentSystem\obj\Debug\netcoreapp2.1\studentSystem.pdb
